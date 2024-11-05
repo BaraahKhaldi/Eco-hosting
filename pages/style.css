@@ -1,0 +1,102 @@
+.footer-img {
+    background: #372a7a;
+    height: 100%;
+  }
+  .gri {
+    color: #c2c5db;
+    text-decoration: none;
+  }
+  .gri:hover {
+    color: #db6bec;
+    text-decoration: underline;
+  }
+  .grii {
+    color: #c2c5db;
+  }
+  .social-icon i:hover {
+    transform: scaleX(-1);
+    transition: transform 0.3s ease;
+    background: #db6bec;
+  }
+  
+  .email-input {
+    border: 1px solid #695cae;
+    background: no-repeat;
+  }
+  .btn-cl {
+    background: linear-gradient(to bottom, #a077ff 0%, #ef67ff 100%);
+  }
+
+a{
+    text-decoration: none;
+   }
+   .bg-img {
+    background-color:#2D0A31 ;
+    background-position: 50%;
+  }
+ 
+  .navbar-item a {
+  color: aliceblue;
+    border-bottom: 3px solid  #2D0A31;
+   
+  }
+  .navbar-item a:hover{
+   
+    color: rgb(192, 43, 226);
+    border-bottom: 3px solid  rgb(192, 43, 226);
+  
+  }
+  .dropdown-item a{
+    color: aliceblue;
+    border-bottom: 3px solid  #2D0A31;
+  }
+  .dropdown a:hover{
+   
+    color: rgb(192, 43, 226);
+    border-bottom: 3px solid  rgb(192, 43, 226);
+  }
+  .SGIN{
+    color: aliceblue;
+   
+    background: linear-gradient(to bottom, #a077ff 0%, #ef67ff 100%);
+    
+  
+  }
+
+.blog-1{
+    background-color: #a077ff;
+    color: white;
+    width: 11%;
+    height: 80px;
+    position: relative;
+    bottom: 70px;
+}
+
+.blog-1:hover{
+background-color: rgba(0, 0, 0, 0);
+transition: 0.5s;
+
+}
+
+
+
+.blog-icon-hover{
+    color: black;
+}
+.blog-icon-hover:hover{
+    color:  #a077ff;
+    transition: 0.3s;
+}
+
+
+.btn-bg:hover{
+background-color:#a077ff ;
+color: white;
+transition: 0.3s;
+}
+
+.btn-bg{
+    background-color: white;
+    color: purple;
+    border: solid 0.5px;
+}

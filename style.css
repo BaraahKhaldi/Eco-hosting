@@ -1,0 +1,130 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* moayed  */
+
+
+
+/* ubeyde start */
+.footer-img {
+  background: #372a7a;
+  height: 100%;
+}
+.gri {
+  color: #c2c5db;
+  text-decoration: none;
+}
+.gri:hover {
+  color: #db6bec;
+  text-decoration: underline;
+}
+.grii {
+  color: #c2c5db;
+}
+.social-icon i:hover {
+  transform: scaleX(-1);
+  transition: transform 0.3s ease;
+  background: #db6bec;
+}
+
+.email-input {
+  border: 1px solid #695cae;
+  background: no-repeat;
+}
+.btn-cl {
+  background: linear-gradient(to bottom, #a077ff 0%, #ef67ff 100%);
+}
+/* ubeyde end */
+/* nour kebbeh start */
+.tag {
+  text-decoration: none;
+  color: #f067ff;
+
+  border: 1px solid #f067ff;
+
+  color: #f067ff;
+ 
+}
+.tag:hover {
+  background: linear-gradient(to bottom, #a077ff 0%, #ef67ff 100%);
+  color: white;
+}
+
+.oo {
+  color: #717081;
+  font-size: 20px;
+}
+.color {
+  color: #a5a7c5;
+}
+span {
+  color: #a5a7c5;
+}
+.t {
+  width: 80px;
+  height: 80px;
+}
+p {
+  color: #a5a7c5;
+}
+.m {
+  background-color: #2d0a31;
+}
+.b {
+  background-color: #2d0a31;
+  height: 550px;
+}
+
+/* nour kebbeh end */
+/* braah khaldi */
+.khv {
+  color: #a5a7c5;
+}
+
+/* end braah khaldi */
+/* start nesren sh */
+a{
+    text-decoration: none;
+   }
+   .bg-img {
+    background-color:#2D0A31 ;
+    background-position: 50%;
+  }
+ 
+  .navbar-item a {
+  color: aliceblue;
+    border-bottom: 3px solid  #2D0A31;
+   
+  }
+  .navbar-item a:hover{
+   
+    color: rgb(192, 43, 226);
+    border-bottom: 3px solid  rgb(192, 43, 226);
+  
+  }
+  .dropdown-item a{
+    color: aliceblue;
+    border-bottom: 3px solid  #2D0A31;
+  }
+  .dropdown a:hover{
+   
+    color: rgb(192, 43, 226);
+    border-bottom: 3px solid  rgb(192, 43, 226);
+  }
+  .SGIN{
+    color: aliceblue;
+   
+    background: linear-gradient(to bottom, #a077ff 0%, #ef67ff 100%);
+    
+  
+  }
+/* end nesren sh */
